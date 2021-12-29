@@ -11,13 +11,13 @@ async def start(c, m):
     owner_username = owner.username if owner.username else 'Ns_bot_updates'
 
     # start text
-    text = f"""Hey! {m.from_user.mention(style='md')},
+    text = f"""Punten pler! {m.from_user.mention(style='md')},
 
-💡 ** I am Stylish Font Bot**
+💀 ** Gue stylish font bot**
 
-`I can help you to get stylish fonts. Just send me some text and see magic.`
+`Gue bisa bikin text biasa jadi lebih bergaya. kirim beberapa text kemudian liat apa yg terjadi :v`
 
-**👲 Maintained By:** {owner.mention(style='md')}
+**▄︻┻═┳一 Maintained By: @kucin666 &** {owner.mention(style='md')}
 """
 
     # Buttons
